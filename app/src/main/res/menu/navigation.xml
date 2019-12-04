@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Beranda" />
+    <item
+        android:id="@+id/schedule"
+        android:icon="@drawable/ic_schedule_black_24dp"
+        android:title="Jadwal" />
+    <item
+        android:id="@+id/panduan"
+        android:icon="@drawable/ic_format_list_black_24dp"
+        android:title="Panduan Akademik" />
+</menu>
